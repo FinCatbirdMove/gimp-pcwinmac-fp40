@@ -1,4 +1,4 @@
-# 
+# Premium GIMP templates for Mac OS | Lightweight GIMP templates for PC Windows. Featuring particle-system and motion-paths — optimized for maximum performance on every platform.
 
 
 
